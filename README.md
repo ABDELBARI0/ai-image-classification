@@ -58,7 +58,7 @@ This project implements a binary image classifier using Convolutional Neural Net
 
 ## 📊 Dataset
 
-**Source:** [Dogs vs. Cats Dataset](https://www.microsoft.com/en-us/download/details.aspx?id=54765) – Microsoft
+**Source:** [Dogs vs. Cats Dataset](https://drive.google.com/drive/folders/17LRRXZI-cEi3kQEkfub7ALlVAQPwxwJL?usp=drive_link) – google drive
 
 - **Total Images:** 25,000
 - **Training Split:** 20,000 (10,000 cats + 10,000 dogs)
